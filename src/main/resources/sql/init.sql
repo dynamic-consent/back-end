@@ -11,7 +11,7 @@
 -- Connect to the database and set up schema
 -- \c dynamicconsent;
 
--- Grant schema privileges
+-- Grant schema privilegesgit
 -- GRANT ALL ON SCHEMA public TO dynamicconsent;
 -- GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA public TO dynamicconsent;
 -- GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA public TO dynamicconsent;
